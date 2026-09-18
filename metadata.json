@@ -1,0 +1,6 @@
+{
+  "name": "FC Brasil 26 - Modo Carreira",
+  "description": "Jogo de futebol completo com times brasileiros, modo carreira estilo FC 26, mercado de transferências, escalação e táticas, finanças e simulação interativa de partidas com Série A, Copa do Brasil e Libertadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
